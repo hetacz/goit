@@ -1,0 +1,14 @@
+{
+  "name": "goit",
+  "version": "1.0.0",
+  "description": "Test Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "rafallovesworking@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
